@@ -9,6 +9,6 @@ WORKDIR /comic_sakura
 
 # 安装支持
 RUN pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
-
+ENV api_env production
 
 CMD ["flask", "run", "-h", "0.0.0.0"]

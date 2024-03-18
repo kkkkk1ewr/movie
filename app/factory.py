@@ -16,16 +16,16 @@ from app.blueprints.comment import comment_bp
 from app.blueprints.auth import auth_bp
 from app.blueprints.video_collection import vd_col_bp
 from app.task.tasks import SakuarDataSchedule
+from setting import config
 
 
 def create_app(env: Union[str, None] = None) -> Flask:
     app = Flask(__name__)
-    config = get_config(env)
-    app.config.update(config)
-    if not os.path.exists(app.config['LOGGING_PATH']):
-        # 日志文件目录
-        os.mkdir(app.config['LOGGING_PATH'])
-    logging.config.dictConfig(get_logging_config())  # 载入日志配置
+    app.config.from_object(config)
+    # if not os.path.exists(app.config['LOGGING_PATH']):
+    #     # 日志文件目录
+    #     os.mkdir(app.config['LOGGING_PATH'])
+    # logging.config.dictConfig(get_logging_config())  # 载入日志配置
     db.init_app(app)
     # csrf.init_app(app)
     cors.init_app(app)
