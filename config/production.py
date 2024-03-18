@@ -23,7 +23,7 @@ class ProductionConfig(object):
     ##
     # DataBase Config
     ##
-    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:1qaz2wsx@154.9.207.208:3306/movie'
+    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:1qaz2wsx@154.9.207.208:3308/movie'
     SQLALCHEMY_TRACK_MODIFICATIONS = True
     SQLALCHEMY_ECHO = False
     SQLALCHEMY_POOL_SIZE = 300
