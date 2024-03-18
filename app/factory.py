@@ -3,7 +3,7 @@ from typing import Union
 
 from flask import Flask
 
-from app.extensions import db, cors, scheduler
+from app.extensions import db, cors
 from app.blueprints.sakura_vod_info import vod_bp
 from app.blueprints.comment import comment_bp
 from app.blueprints.auth import auth_bp

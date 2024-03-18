@@ -23,7 +23,9 @@ class DevelopConfig(object):
     ##
     # DataBase Config
     ##
-    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:1qaz2wsx@127.0.0.1:3306/movie'
+    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://movie:xWRPYsWrXEKHmdTj@154.9.207.208:3306/movie'
+    #
+    # SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:1qaz2wsx@127.0.0.1:3306/movie'
     SQLALCHEMY_TRACK_MODIFICATIONS = True
     SQLALCHEMY_ECHO = False
     SQLALCHEMY_POOL_SIZE = 300
