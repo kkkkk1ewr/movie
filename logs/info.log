@@ -1,0 +1,424 @@
+127.0.0.1 - - [13/Mar/2024 10:58:56] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=喜剧片&vod_year=2023 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 10:58:56] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=喜剧片&vod_year=2023 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 10:58:57] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=爱情片&vod_year=2023 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 10:58:57] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=爱情片&vod_year=2023 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 10:58:59] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=科幻片&vod_year=2023 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 10:58:59] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=科幻片&vod_year=2023 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 10:59:00] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=爱情片&vod_year=2023 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:00:28] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:00:28] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:00:28] "OPTIONS /collection/is_collection?vod_id=45&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:00:28] "OPTIONS /vod_detail?vod_id=45 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:00:28] "OPTIONS /show/comment/45 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:00:28] "GET /collection/is_collection?vod_id=45&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:00:28] "GET /show/comment/45 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:00:28] "GET /vod_detail?vod_id=45 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "OPTIONS /collection/is_collection?vod_id=2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "OPTIONS /vod_detail?vod_id=2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "OPTIONS /show/comment/2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "GET /vod_detail?vod_id=2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "GET /collection/is_collection?vod_id=2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "OPTIONS /collection/is_collection?vod_id=2&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "GET /show/comment/2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "GET /collection/is_collection?vod_id=2&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:45] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:46] "OPTIONS /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:46] "GET /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:03:46] "GET /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:04:52] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:04:52] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:04:52] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:04:52] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:04:52] "OPTIONS /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:04:52] "GET /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "OPTIONS /collection/is_collection?vod_id=2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "OPTIONS /show/comment/2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "OPTIONS /vod_detail?vod_id=2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "GET /collection/is_collection?vod_id=2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "GET /show/comment/2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "OPTIONS /collection/is_collection?vod_id=2&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "GET /vod_detail?vod_id=2 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "GET /collection/is_collection?vod_id=2&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "OPTIONS /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:56] "GET /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:05:57] "GET /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:06:26] "OPTIONS /vod_list?page=3&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:06:26] "GET /vod_list?page=3&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:06:33] "OPTIONS /vod_list?page=4&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:06:33] "GET /vod_list?page=4&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:06:35] "OPTIONS /vod_list?page=5&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:06:35] "GET /vod_list?page=5&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:06:38] "OPTIONS /vod_list?page=6&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:06:38] "GET /vod_list?page=6&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:06:42] "OPTIONS /vod_list?page=7&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:06:42] "GET /vod_list?page=7&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:07:28] "OPTIONS /collection/show?page=1&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:07:28] "GET /collection/show?page=1&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:07:29] "OPTIONS /collection/show?page=2&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:07:29] "GET /collection/show?page=2&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:07:43] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:07:43] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:07:43] "OPTIONS /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:07:43] "GET /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:13] "OPTIONS /vod_list?page=1&movtype=0&keyword=那个&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:13] "GET /vod_list?page=1&movtype=0&keyword=那个&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:13] "OPTIONS /vod_list?page=2&movtype=0&keyword=那个&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:13] "[33mGET /vod_list?page=2&movtype=0&keyword=那个&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Mar/2024 11:08:21] "OPTIONS /vod_list?page=1&movtype=0&keyword=那个&vod_area=&vod_class=电影&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:21] "GET /vod_list?page=1&movtype=0&keyword=那个&vod_area=&vod_class=电影&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:22] "GET /vod_list?page=1&movtype=0&keyword=那个&vod_area=&vod_class=电影&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:24] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:24] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:25] "OPTIONS /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:25] "GET /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:53] "OPTIONS /vod_list?page=1&movtype=0&keyword=那个&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 11:08:54] "OPTIONS /vod_list?page=2&movtype=0&keyword=那个&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:21] "OPTIONS /vod_list?page=1&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:22] "OPTIONS /vod_list?page=2&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:24] "GET /vod_list?page=1&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:24] "GET /vod_list?page=2&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:24] "GET /vod_list?page=1&movtype=0&keyword=那个&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:24] "[33mGET /vod_list?page=2&movtype=0&keyword=那个&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Mar/2024 13:18:33] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:33] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:33] "OPTIONS /vod_detail?vod_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:33] "OPTIONS /collection/is_collection?vod_id=1&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:33] "OPTIONS /show/comment/1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:33] "GET /collection/is_collection?vod_id=1&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:33] "GET /vod_detail?vod_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:33] "GET /show/comment/1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:48] "OPTIONS /vod_list?page=1&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:48] "GET /vod_list?page=1&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:48] "OPTIONS /vod_list?page=2&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:48] "GET /vod_list?page=2&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:52] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:52] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:52] "OPTIONS /collection/is_collection?vod_id=12&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:52] "OPTIONS /vod_detail?vod_id=12 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:52] "OPTIONS /show/comment/12 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:52] "GET /collection/is_collection?vod_id=12&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:52] "GET /show/comment/12 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:18:52] "GET /vod_detail?vod_id=12 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:26:49] "OPTIONS /vod_list?page=3&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:26:49] "[33mGET /vod_list?page=3&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Mar/2024 13:28:55] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:28:55] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:28:55] "OPTIONS /vod_list?page=1&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:28:55] "GET /vod_list?page=1&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:28:56] "OPTIONS /vod_list?page=2&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:28:56] "[33mGET /vod_list?page=2&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Mar/2024 13:28:59] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:28:59] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:00] "OPTIONS /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:00] "GET /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:07] "OPTIONS /vod_list?page=3&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:07] "GET /vod_list?page=3&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:09] "OPTIONS /vod_list?page=4&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:10] "GET /vod_list?page=4&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:11] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:11] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:11] "OPTIONS /collection/is_collection?vod_id=29&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:11] "OPTIONS /vod_detail?vod_id=29 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:11] "OPTIONS /show/comment/29 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:11] "GET /collection/is_collection?vod_id=29&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:11] "GET /show/comment/29 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:11] "GET /vod_detail?vod_id=29 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:17] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:17] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:17] "OPTIONS /collection/is_collection?vod_id=24&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:17] "OPTIONS /vod_detail?vod_id=24 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:17] "OPTIONS /show/comment/24 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:18] "GET /collection/is_collection?vod_id=24&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:18] "GET /vod_detail?vod_id=24 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:29:18] "GET /show/comment/24 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:33:30] "OPTIONS /vod_list?page=5&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:33:30] "GET /vod_list?page=5&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:33:31] "OPTIONS /vod_list?page=6&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:33:31] "GET /vod_list?page=6&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:00] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=动作片&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:00] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=动作片&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:03] "OPTIONS /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=动作片&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:03] "GET /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=动作片&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:05] "OPTIONS /vod_list?page=3&movtype=1&keyword=&vod_area=&vod_class=动作片&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:05] "GET /vod_list?page=3&movtype=1&keyword=&vod_area=&vod_class=动作片&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:16] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=动作片&vod_year=更多 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:16] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=动作片&vod_year=更多 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:18] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=动作片&vod_year=2024 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:18] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=动作片&vod_year=2024 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:42] "OPTIONS /vod_list?page=1&movtype=0&keyword=麻辣&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:42] "GET /vod_list?page=1&movtype=0&keyword=麻辣&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:42] "OPTIONS /vod_list?page=2&movtype=0&keyword=麻辣&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:34:42] "[33mGET /vod_list?page=2&movtype=0&keyword=麻辣&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Mar/2024 13:35:05] "OPTIONS /vod_list?page=1&movtype=0&keyword=麻辣.&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:35:06] "OPTIONS /vod_list?page=2&movtype=0&keyword=麻辣.&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:35:08] "OPTIONS /vod_list?page=1&movtype=0&keyword=麻辣&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:35:09] "OPTIONS /vod_list?page=2&movtype=0&keyword=麻辣&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:36:36] "OPTIONS /vod_list?page=1&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:36:37] "OPTIONS /vod_list?page=2&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:36:39] "[33mGET /vod_list?page=2&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Mar/2024 13:36:39] "GET /vod_list?page=1&movtype=0&keyword=麻辣.&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:36:39] "GET /vod_list?page=1&movtype=2&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:36:39] "GET /vod_list?page=1&movtype=0&keyword=麻辣&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:36:39] "[33mGET /vod_list?page=2&movtype=0&keyword=麻辣.&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Mar/2024 13:36:39] "[33mGET /vod_list?page=2&movtype=0&keyword=麻辣&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Mar/2024 13:36:44] "OPTIONS /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:36:45] "OPTIONS /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:36:48] "GET /vod_list?page=1&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:36:48] "GET /vod_list?page=2&movtype=1&keyword=&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "register_scheduler_job.<locals>.scheduler_update_sakura" to job store "default"
+Scheduler started
+ * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+127.0.0.1 - - [13/Mar/2024 13:42:01] "OPTIONS /vod_list?page=1&movtype=0&keyword=1&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:42:01] "OPTIONS /vod_list?page=2&movtype=0&keyword=1&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:42:12] "[33mGET /vod_list?page=2&movtype=0&keyword=1&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Mar/2024 13:42:12] "GET /vod_list?page=1&movtype=0&keyword=1&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "register_scheduler_job.<locals>.scheduler_update_sakura" to job store "default"
+Scheduler started
+ * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+127.0.0.1 - - [13/Mar/2024 13:43:42] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:43:42] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:43:42] "OPTIONS /vod_list?page=1&movtype=0&keyword=1&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:43:43] "OPTIONS /vod_list?page=2&movtype=0&keyword=1&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+Exception on /vod_list [GET]
+Traceback (most recent call last):
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1820, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1191, "Can't find FULLTEXT index matching the column list")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/app/blueprints/sakura_vod_info.py", line 64, in get_vod_list
+    movs = movs.order_by(MovDetail.vod_time.desc()).paginate(page=page, per_page=12).items
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py", line 534, in paginate
+    items = self.limit(per_page).offset((page - 1) * per_page).all()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2768, in all
+    return self._iter().all()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2906, in _iter
+    execution_options={"_sa_orm_load_options": self.load_options},
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 1712, in execute
+    result = conn._execute_20(statement, params or {}, execution_options)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 326, in _execute_on_connection
+    self, multiparams, params, execution_options
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1508, in _execute_clauseelement
+    cache_hit=cache_hit,
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1863, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2044, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1820, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.OperationalError: (pymysql.err.OperationalError) (1191, "Can't find FULLTEXT index matching the column list")
+[SQL: SELECT sakura_movdetail.id AS sakura_movdetail_id, sakura_movdetail.group_id AS sakura_movdetail_group_id, sakura_movdetail.type_id AS sakura_movdetail_type_id, sakura_movdetail.type_id_1 AS sakura_movdetail_type_id_1, sakura_movdetail.type_name AS sakura_movdetail_type_name, sakura_movdetail.vod_actor AS sakura_movdetail_vod_actor, sakura_movdetail.vod_area AS sakura_movdetail_vod_area, sakura_movdetail.vod_author AS sakura_movdetail_vod_author, sakura_movdetail.vod_behind AS sakura_movdetail_vod_behind, sakura_movdetail.vod_blurb AS sakura_movdetail_vod_blurb, sakura_movdetail.vod_class AS sakura_movdetail_vod_class, sakura_movdetail.vod_color AS sakura_movdetail_vod_color, sakura_movdetail.vod_content AS sakura_movdetail_vod_content, sakura_movdetail.vod_copyright AS sakura_movdetail_vod_copyright, sakura_movdetail.vod_director AS sakura_movdetail_vod_director, sakura_movdetail.vod_douban_id AS sakura_movdetail_vod_douban_id, sakura_movdetail.vod_douban_score AS sakura_movdetail_vod_douban_score, sakura_movdetail.vod_down AS sakura_movdetail_vod_down, sakura_movdetail.vod_down_from AS sakura_movdetail_vod_down_from, sakura_movdetail.vod_down_note AS sakura_movdetail_vod_down_note, sakura_movdetail.vod_down_server AS sakura_movdetail_vod_down_server, sakura_movdetail.vod_down_url AS sakura_movdetail_vod_down_url, sakura_movdetail.vod_duration AS sakura_movdetail_vod_duration, sakura_movdetail.vod_en AS sakura_movdetail_vod_en, sakura_movdetail.vod_hits AS sakura_movdetail_vod_hits, sakura_movdetail.vod_hits_day AS sakura_movdetail_vod_hits_day, sakura_movdetail.vod_hits_month AS sakura_movdetail_vod_hits_month, sakura_movdetail.vod_hits_week AS sakura_movdetail_vod_hits_week, sakura_movdetail.vod_id AS sakura_movdetail_vod_id, sakura_movdetail.vod_isend AS sakura_movdetail_vod_isend, sakura_movdetail.vod_jumpurl AS sakura_movdetail_vod_jumpurl, sakura_movdetail.vod_lang AS sakura_movdetail_vod_lang, sakura_movdetail.vod_letter AS sakura_movdetail_vod_letter, sakura_movdetail.vod_level AS sakura_movdetail_vod_level, sakura_movdetail.vod_lock AS sakura_movdetail_vod_lock, sakura_movdetail.vod_name AS sakura_movdetail_vod_name, sakura_movdetail.vod_pic AS sakura_movdetail_vod_pic, sakura_movdetail.vod_pic_screenshot AS sakura_movdetail_vod_pic_screenshot, sakura_movdetail.vod_pic_slide AS sakura_movdetail_vod_pic_slide, sakura_movdetail.vod_pic_thumb AS sakura_movdetail_vod_pic_thumb, sakura_movdetail.vod_play_from AS sakura_movdetail_vod_play_from, sakura_movdetail.vod_play_note AS sakura_movdetail_vod_play_note, sakura_movdetail.vod_play_server AS sakura_movdetail_vod_play_server, sakura_movdetail.vod_play_url AS sakura_movdetail_vod_play_url, sakura_movdetail.vod_plot AS sakura_movdetail_vod_plot, sakura_movdetail.vod_plot_detail AS sakura_movdetail_vod_plot_detail, sakura_movdetail.vod_plot_name AS sakura_movdetail_vod_plot_name, sakura_movdetail.vod_points AS sakura_movdetail_vod_points, sakura_movdetail.vod_points_down AS sakura_movdetail_vod_points_down, sakura_movdetail.vod_points_play AS sakura_movdetail_vod_points_play, sakura_movdetail.vod_pubdate AS sakura_movdetail_vod_pubdate, sakura_movdetail.vod_pwd AS sakura_movdetail_vod_pwd, sakura_movdetail.vod_pwd_down AS sakura_movdetail_vod_pwd_down, sakura_movdetail.vod_pwd_down_url AS sakura_movdetail_vod_pwd_down_url, sakura_movdetail.vod_pwd_play AS sakura_movdetail_vod_pwd_play, sakura_movdetail.vod_pwd_play_url AS sakura_movdetail_vod_pwd_play_url, sakura_movdetail.vod_pwd_url AS sakura_movdetail_vod_pwd_url, sakura_movdetail.vod_rel_art AS sakura_movdetail_vod_rel_art, sakura_movdetail.vod_rel_vod AS sakura_movdetail_vod_rel_vod, sakura_movdetail.vod_remarks AS sakura_movdetail_vod_remarks, sakura_movdetail.vod_reurl AS sakura_movdetail_vod_reurl, sakura_movdetail.vod_score AS sakura_movdetail_vod_score, sakura_movdetail.vod_score_all AS sakura_movdetail_vod_score_all, sakura_movdetail.vod_score_num AS sakura_movdetail_vod_score_num, sakura_movdetail.vod_serial AS sakura_movdetail_vod_serial, sakura_movdetail.vod_state AS sakura_movdetail_vod_state, sakura_movdetail.vod_status AS sakura_movdetail_vod_status, sakura_movdetail.vod_sub AS sakura_movdetail_vod_sub, sakura_movdetail.vod_tag AS sakura_movdetail_vod_tag, sakura_movdetail.vod_time AS sakura_movdetail_vod_time, sakura_movdetail.vod_time_add AS sakura_movdetail_vod_time_add, sakura_movdetail.vod_time_hits AS sakura_movdetail_vod_time_hits, sakura_movdetail.vod_time_make AS sakura_movdetail_vod_time_make, sakura_movdetail.vod_total AS sakura_movdetail_vod_total, sakura_movdetail.vod_tpl AS sakura_movdetail_vod_tpl, sakura_movdetail.vod_tpl_down AS sakura_movdetail_vod_tpl_down, sakura_movdetail.vod_tpl_play AS sakura_movdetail_vod_tpl_play, sakura_movdetail.vod_trysee AS sakura_movdetail_vod_trysee, sakura_movdetail.vod_tv AS sakura_movdetail_vod_tv, sakura_movdetail.vod_up AS sakura_movdetail_vod_up, sakura_movdetail.vod_version AS sakura_movdetail_vod_version, sakura_movdetail.vod_weekday AS sakura_movdetail_vod_weekday, sakura_movdetail.vod_writer AS sakura_movdetail_vod_writer, sakura_movdetail.vod_year AS sakura_movdetail_vod_year 
+FROM sakura_movdetail 
+WHERE sakura_movdetail.type_id IN (%(type_id_1_1)s, %(type_id_1_2)s, %(type_id_1_3)s, %(type_id_1_4)s) AND MATCH (sakura_movdetail.vod_name) AGAINST (%(vod_name_1)s IN BOOLEAN MODE) ORDER BY sakura_movdetail.vod_time DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'vod_name_1': '1', 'param_1': 12, 'param_2': 12, 'type_id_1_1': 1, 'type_id_1_2': 2, 'type_id_1_3': 3, 'type_id_1_4': 4}]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+Exception on /vod_list [GET]
+Traceback (most recent call last):
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1820, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1191, "Can't find FULLTEXT index matching the column list")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/app/blueprints/sakura_vod_info.py", line 64, in get_vod_list
+    movs = movs.order_by(MovDetail.vod_time.desc()).paginate(page=page, per_page=12).items
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py", line 534, in paginate
+    items = self.limit(per_page).offset((page - 1) * per_page).all()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2768, in all
+    return self._iter().all()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2906, in _iter
+    execution_options={"_sa_orm_load_options": self.load_options},
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 1712, in execute
+    result = conn._execute_20(statement, params or {}, execution_options)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 326, in _execute_on_connection
+    self, multiparams, params, execution_options
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1508, in _execute_clauseelement
+    cache_hit=cache_hit,
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1863, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2044, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 208, in raise_
+    raise exception
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1820, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/kgao/Downloads/sakura-comic-flask-main/venv/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.OperationalError: (pymysql.err.OperationalError) (1191, "Can't find FULLTEXT index matching the column list")
+[SQL: SELECT sakura_movdetail.id AS sakura_movdetail_id, sakura_movdetail.group_id AS sakura_movdetail_group_id, sakura_movdetail.type_id AS sakura_movdetail_type_id, sakura_movdetail.type_id_1 AS sakura_movdetail_type_id_1, sakura_movdetail.type_name AS sakura_movdetail_type_name, sakura_movdetail.vod_actor AS sakura_movdetail_vod_actor, sakura_movdetail.vod_area AS sakura_movdetail_vod_area, sakura_movdetail.vod_author AS sakura_movdetail_vod_author, sakura_movdetail.vod_behind AS sakura_movdetail_vod_behind, sakura_movdetail.vod_blurb AS sakura_movdetail_vod_blurb, sakura_movdetail.vod_class AS sakura_movdetail_vod_class, sakura_movdetail.vod_color AS sakura_movdetail_vod_color, sakura_movdetail.vod_content AS sakura_movdetail_vod_content, sakura_movdetail.vod_copyright AS sakura_movdetail_vod_copyright, sakura_movdetail.vod_director AS sakura_movdetail_vod_director, sakura_movdetail.vod_douban_id AS sakura_movdetail_vod_douban_id, sakura_movdetail.vod_douban_score AS sakura_movdetail_vod_douban_score, sakura_movdetail.vod_down AS sakura_movdetail_vod_down, sakura_movdetail.vod_down_from AS sakura_movdetail_vod_down_from, sakura_movdetail.vod_down_note AS sakura_movdetail_vod_down_note, sakura_movdetail.vod_down_server AS sakura_movdetail_vod_down_server, sakura_movdetail.vod_down_url AS sakura_movdetail_vod_down_url, sakura_movdetail.vod_duration AS sakura_movdetail_vod_duration, sakura_movdetail.vod_en AS sakura_movdetail_vod_en, sakura_movdetail.vod_hits AS sakura_movdetail_vod_hits, sakura_movdetail.vod_hits_day AS sakura_movdetail_vod_hits_day, sakura_movdetail.vod_hits_month AS sakura_movdetail_vod_hits_month, sakura_movdetail.vod_hits_week AS sakura_movdetail_vod_hits_week, sakura_movdetail.vod_id AS sakura_movdetail_vod_id, sakura_movdetail.vod_isend AS sakura_movdetail_vod_isend, sakura_movdetail.vod_jumpurl AS sakura_movdetail_vod_jumpurl, sakura_movdetail.vod_lang AS sakura_movdetail_vod_lang, sakura_movdetail.vod_letter AS sakura_movdetail_vod_letter, sakura_movdetail.vod_level AS sakura_movdetail_vod_level, sakura_movdetail.vod_lock AS sakura_movdetail_vod_lock, sakura_movdetail.vod_name AS sakura_movdetail_vod_name, sakura_movdetail.vod_pic AS sakura_movdetail_vod_pic, sakura_movdetail.vod_pic_screenshot AS sakura_movdetail_vod_pic_screenshot, sakura_movdetail.vod_pic_slide AS sakura_movdetail_vod_pic_slide, sakura_movdetail.vod_pic_thumb AS sakura_movdetail_vod_pic_thumb, sakura_movdetail.vod_play_from AS sakura_movdetail_vod_play_from, sakura_movdetail.vod_play_note AS sakura_movdetail_vod_play_note, sakura_movdetail.vod_play_server AS sakura_movdetail_vod_play_server, sakura_movdetail.vod_play_url AS sakura_movdetail_vod_play_url, sakura_movdetail.vod_plot AS sakura_movdetail_vod_plot, sakura_movdetail.vod_plot_detail AS sakura_movdetail_vod_plot_detail, sakura_movdetail.vod_plot_name AS sakura_movdetail_vod_plot_name, sakura_movdetail.vod_points AS sakura_movdetail_vod_points, sakura_movdetail.vod_points_down AS sakura_movdetail_vod_points_down, sakura_movdetail.vod_points_play AS sakura_movdetail_vod_points_play, sakura_movdetail.vod_pubdate AS sakura_movdetail_vod_pubdate, sakura_movdetail.vod_pwd AS sakura_movdetail_vod_pwd, sakura_movdetail.vod_pwd_down AS sakura_movdetail_vod_pwd_down, sakura_movdetail.vod_pwd_down_url AS sakura_movdetail_vod_pwd_down_url, sakura_movdetail.vod_pwd_play AS sakura_movdetail_vod_pwd_play, sakura_movdetail.vod_pwd_play_url AS sakura_movdetail_vod_pwd_play_url, sakura_movdetail.vod_pwd_url AS sakura_movdetail_vod_pwd_url, sakura_movdetail.vod_rel_art AS sakura_movdetail_vod_rel_art, sakura_movdetail.vod_rel_vod AS sakura_movdetail_vod_rel_vod, sakura_movdetail.vod_remarks AS sakura_movdetail_vod_remarks, sakura_movdetail.vod_reurl AS sakura_movdetail_vod_reurl, sakura_movdetail.vod_score AS sakura_movdetail_vod_score, sakura_movdetail.vod_score_all AS sakura_movdetail_vod_score_all, sakura_movdetail.vod_score_num AS sakura_movdetail_vod_score_num, sakura_movdetail.vod_serial AS sakura_movdetail_vod_serial, sakura_movdetail.vod_state AS sakura_movdetail_vod_state, sakura_movdetail.vod_status AS sakura_movdetail_vod_status, sakura_movdetail.vod_sub AS sakura_movdetail_vod_sub, sakura_movdetail.vod_tag AS sakura_movdetail_vod_tag, sakura_movdetail.vod_time AS sakura_movdetail_vod_time, sakura_movdetail.vod_time_add AS sakura_movdetail_vod_time_add, sakura_movdetail.vod_time_hits AS sakura_movdetail_vod_time_hits, sakura_movdetail.vod_time_make AS sakura_movdetail_vod_time_make, sakura_movdetail.vod_total AS sakura_movdetail_vod_total, sakura_movdetail.vod_tpl AS sakura_movdetail_vod_tpl, sakura_movdetail.vod_tpl_down AS sakura_movdetail_vod_tpl_down, sakura_movdetail.vod_tpl_play AS sakura_movdetail_vod_tpl_play, sakura_movdetail.vod_trysee AS sakura_movdetail_vod_trysee, sakura_movdetail.vod_tv AS sakura_movdetail_vod_tv, sakura_movdetail.vod_up AS sakura_movdetail_vod_up, sakura_movdetail.vod_version AS sakura_movdetail_vod_version, sakura_movdetail.vod_weekday AS sakura_movdetail_vod_weekday, sakura_movdetail.vod_writer AS sakura_movdetail_vod_writer, sakura_movdetail.vod_year AS sakura_movdetail_vod_year 
+FROM sakura_movdetail 
+WHERE sakura_movdetail.type_id IN (%(type_id_1_1)s, %(type_id_1_2)s, %(type_id_1_3)s, %(type_id_1_4)s) AND MATCH (sakura_movdetail.vod_name) AGAINST (%(vod_name_1)s IN BOOLEAN MODE) ORDER BY sakura_movdetail.vod_time DESC 
+ LIMIT %(param_1)s, %(param_2)s]
+[parameters: {'vod_name_1': '1', 'param_1': 0, 'param_2': 12, 'type_id_1_1': 1, 'type_id_1_2': 2, 'type_id_1_3': 3, 'type_id_1_4': 4}]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+127.0.0.1 - - [13/Mar/2024 13:43:46] "[35m[1mGET /vod_list?page=2&movtype=0&keyword=1&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 500 -
+127.0.0.1 - - [13/Mar/2024 13:43:46] "[35m[1mGET /vod_list?page=1&movtype=0&keyword=1&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 500 -
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "register_scheduler_job.<locals>.scheduler_update_sakura" to job store "default"
+Scheduler started
+ * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+127.0.0.1 - - [13/Mar/2024 13:44:34] "OPTIONS /vod_list?page=1&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:44:35] "OPTIONS /vod_list?page=2&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:44:39] "GET /vod_list?page=1&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:44:39] "[33mGET /vod_list?page=2&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "register_scheduler_job.<locals>.scheduler_update_sakura" to job store "default"
+Scheduler started
+ * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+127.0.0.1 - - [13/Mar/2024 13:47:29] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:47:29] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:47:29] "OPTIONS /vod_list?page=1&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:47:30] "OPTIONS /vod_list?page=2&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:47:32] "[33mGET /vod_list?page=2&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
+127.0.0.1 - - [13/Mar/2024 13:47:32] "GET /vod_list?page=1&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:47:44] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:47:44] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:47:44] "OPTIONS /vod_list?page=1&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:47:44] "OPTIONS /vod_list?page=2&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "register_scheduler_job.<locals>.scheduler_update_sakura" to job store "default"
+Scheduler started
+ * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+127.0.0.1 - - [13/Mar/2024 13:49:09] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:09] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:09] "OPTIONS /vod_list?page=1&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:09] "GET /vod_list?page=1&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:09] "OPTIONS /vod_list?page=2&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:09] "GET /vod_list?page=2&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:26] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:26] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:26] "OPTIONS /collection/is_collection?vod_id=351&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:26] "OPTIONS /vod_detail?vod_id=351 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:26] "OPTIONS /show/comment/351 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:26] "GET /collection/is_collection?vod_id=351&user_id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:26] "GET /show/comment/351 HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:49:26] "GET /vod_detail?vod_id=351 HTTP/1.1" 200 -
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Added job "register_scheduler_job.<locals>.scheduler_update_sakura" to job store "default"
+Scheduler started
+ * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+127.0.0.1 - - [13/Mar/2024 13:50:06] "OPTIONS /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:50:06] "GET /auth/user HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:50:06] "OPTIONS /vod_list?page=1&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:50:06] "GET /vod_list?page=1&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:50:07] "OPTIONS /vod_list?page=2&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:50:07] "GET /vod_list?page=2&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:50:12] "OPTIONS /vod_list?page=3&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2024 13:50:12] "[33mGET /vod_list?page=3&movtype=0&keyword=4&vod_area=&vod_class=&vod_year= HTTP/1.1[0m" 404 -
